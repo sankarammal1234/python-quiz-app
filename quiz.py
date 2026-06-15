@@ -31,12 +31,5 @@ if question.lower() =="yes":
     score +=1
 else:
     print('incorrect')
-
-question = input("Who is the first Prime Minister of India?")
-if question.lower()=="jawaharlal nehru":
-    print('correct')
-    score +=1
-else:
-    print('incorrect')
 print ("your score "+ str(score))
                 
