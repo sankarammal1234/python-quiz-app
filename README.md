@@ -1,0 +1,1 @@
+This project helped me practice user input handling, conditional statements (if/else), string methods, and score calculation in Python. Small projects like these are helping me strengthen my programming fundamentals and improve my problem-solving skills.
